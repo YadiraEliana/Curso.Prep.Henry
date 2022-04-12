@@ -1,0 +1,5 @@
+Variables: es una forma de almacenar datos que puede cambiar de valor
+Strings:es una secuencia de letras y/o numeros para guardar datos
+Funciones (argumentos, return): las funciones son un conjunto de pasos para realizar una tarea,y los argumentos son la caracteristicas de las funciones las cuales se púeden devolver 
+Declaraciones if: se utiliza para la toma de decisiones, y de acuerdo al resultado se realiza una acción
+Valores booleanos (true, false): es un dato que solo puede tener 2 valores verdadero o falso
