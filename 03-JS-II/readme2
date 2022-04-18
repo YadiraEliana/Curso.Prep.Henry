@@ -1,0 +1,5 @@
+for: es un bucle que se utiliza para repetir un bloque de codigo un nuemero indefinido de veces
+y tiene 3 partes, una variable, un fin y un aumento
+
+
+&& ||  !  son operadores que nos ayudan a determinar, evaluar expresiones dandoles valor de verdadero y falso
