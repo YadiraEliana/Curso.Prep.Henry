@@ -1,0 +1,4 @@
+arrays (arreglos): 	son lista de elementos
+			los elementos son de todos los tipos de datos
+				numeros, strings, funciones, buleanos, null y undefined
+			y un arreglo puede venir dentro de otro arreglo
