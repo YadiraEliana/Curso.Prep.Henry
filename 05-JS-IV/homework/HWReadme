@@ -1,0 +1,21 @@
+OBJETOS Es un conjunto de propiedades los cuales tienen un nombre (los nombre son "strings") y un valor, 
+	los objetos se encierran con llaves, 
+	un OBJETO recibe como valor cualquier tipo de dato, en cualquier orden mientras que los propiedades sean iguales
+	numeros, strings, funciones, buleanos, null y undefined
+
+
+Propiedades: son los nombres que le damos a los datos los cuales tiene un valor
+
+
+METODOS funciones (conjunto de argumentos que a su vez tienen caracteristicas) guardadas en un objeto
+
+
+BUCLES FOR...IN esta clave recorrera todas las propiedades del objetos, a partir de Arrays y objetos
+
+
+
+Notación de puntos vs notación de corchetes
+Para acceder a las propiedades de los objetos esta la NOTACION DE PUNTOS se llama al nombre del objeto, punto(.) 
+y el nombre de la propiedad ahi obtenemos el valor, con la NOTACION DE CORCHETES para llamar la propiedad de un 
+objeto llamamos el nombre del objeto, abrimos corchetes y en comillas la propiedad la cual nos dará el valor
+la notacion de corchetes trae mas elementos que la notacion de puntos
